@@ -1,12 +1,8 @@
 ---
-title: "Simple Analysis Exercise Website"
+title: "Introduction to Spatial Analysis"
 output: 
   html_document:
     toc: FALSE
 ---
 
-This is a demo website to illustrate how one can build simple websites using RMarkdown and Github.
-
-This website contains the solution to the _Simple Analysis Exercise_.
-
-Click on the menu links above to see the analysis results and to learn more about me.
+This repository includes the work from UGA's ECOL 8540 Computational Workshop on Spatial Analysis (in R), conducted by Dr. J.P. Schmidt.

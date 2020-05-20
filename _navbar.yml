@@ -1,13 +1,20 @@
-title: "Data Analysis Exercise Website"
+title: "ECOL 8540: Introduction to Spatial Analysis"
 type: inverse
 left:
-  - text: "Analyses"
+  - text: "Modules"
     menu:
-      - text: "Continuous Outcome Analysis"
-        href: ./Continuous_Outcome_Analysis.html
-      - text: "Future Analysis"
-  - text: "About the Author"
-    href: ./Author.html
+      - text: "Module 1: Intro to Spatial Analysis"
+        href: module_1.html
+      - text: "Module 2: GIS Data"
+        menu:
+        - text: "Zoom Notes"
+          href: module_2_notes.html
+        - text: "Exercise"
+          href: module_2.html
+  - text: "Questions for JPS"
+    href: questions.html
+
+
 right:
   - icon: fa-github fa-lg
-    href: URL-TO-THIS-REPOSITORY-HERE
+    href: https://meganejlott.github.io/ECOL8540_Spatial_Analysis/
